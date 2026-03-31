@@ -1,0 +1,9 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/harsha2531/library-eureka-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/harsha2531/library-api-gateway.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/harsha2531/library-config-server.git
