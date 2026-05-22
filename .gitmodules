@@ -7,3 +7,4 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/harsha2531/library-config-server.git
+	branch = main
