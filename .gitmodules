@@ -7,6 +7,3 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/harsha2531/library-config-server.git
-[submodule "library-config-server"]
-	path = library-config-server
-	url = https://github.com/harsha2531/library-config-server.git
